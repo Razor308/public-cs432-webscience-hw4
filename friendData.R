@@ -1,0 +1,5 @@
+file <- read.csv("HW4-friend-count.csv")
+print(paste("Number of Friends:", nrow(file)))
+print(paste("Mean:", mean(file[,2])))
+print(paste("Standard Deviation:", sd(file[,2])))
+print(paste("Median:", median(file[,2])))

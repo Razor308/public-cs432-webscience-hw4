@@ -1,0 +1,4 @@
+[1] "Number of Followers: 433"
+[1] "Mean: 3081.54734411085"
+[1] "Standard Deviation: 28070.8917303204"
+[1] "Median: 195"

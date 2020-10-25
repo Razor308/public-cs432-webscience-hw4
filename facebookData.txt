@@ -1,0 +1,4 @@
+[1] "Number of Friends: 98"
+[1] "Mean: 542.673469387755"
+[1] "Standard Deviation: 539.433738523966"
+[1] "Median: 396"
