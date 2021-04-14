@@ -1,3 +1,6 @@
+# Below is an assignment for ODU's CS432 Web Science Course.
+# The completed report written in LaTeX can be veiwed [here](HW4_report.pdf)
+
 # Homework 4 - Exploring Social Networks
 **Due:** Sunday, October 25, 2020 by 11:59pm
 
